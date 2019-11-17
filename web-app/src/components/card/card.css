@@ -1,0 +1,21 @@
+.o-card {
+    position: relative;
+    background: rgba(0,0,0,0.8);
+    border: 1.5px solid rgba(0, 0, 0, 0.8);
+    padding: 0em;
+    width: 100%;
+}
+.o-card-title {
+    position: relative;
+    color: #fff;
+    font-size: 1.5em;
+}
+.o-card-indicator {
+    position: relative;
+    display: inline-block;
+    height: 12px;
+    width: 12px;
+    border-radius: 15px;
+    background: rgba(237, 33, 58, 1);
+    margin-left: .3em;
+}
